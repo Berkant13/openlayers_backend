@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Openlayers_backend", "Openlayers_backend\Openlayers_backend.csproj", "{FA777A8E-F78F-40FB-860C-E17F836B6B81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA777A8E-F78F-40FB-860C-E17F836B6B81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA777A8E-F78F-40FB-860C-E17F836B6B81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA777A8E-F78F-40FB-860C-E17F836B6B81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA777A8E-F78F-40FB-860C-E17F836B6B81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1ABD5315-C94B-4593-9964-3A889877CB78}
+	EndGlobalSection
+EndGlobal
